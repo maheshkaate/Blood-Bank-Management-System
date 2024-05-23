@@ -1,1 +1,3 @@
 # Blood-Bank-Management-System
+
+The ONLINE BLOOD BANK system is designed to efficiently manage blood donation and distribution for hospitals in need. It maintains donor information, making it easy for doctors to locate donors quickly during emergencies. By encouraging blood donation and facilitating communication between donors and doctors, the system ensures timely delivery of blood products, minimizing delays. It utilizes cost-effective tools and optimization methods to improve healthcare logistics, including resource management, staff rostering, and medical supply transportation. The system aims to optimize blood donation processes to ensure an adequate blood supply for transfusion centers and hospitals.
